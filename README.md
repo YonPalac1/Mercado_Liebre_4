@@ -1,5 +1,5 @@
-# Mercado Liebre 4 - Practica integradora / Digital House
-## Posicionamiento Avanzado Flexbox
+# Mercado Liebre 4 - Posicionamiento Avanzado Flexbox
+## Practica integradora / Digital House
 - <a href="https://github.com/YonPalac1/Mercado_Liebre_1">Mercado Liebre 1</a><br/>
 - <a href="https://github.com/YonPalac1/Mercado_Liebre_2">Mercado Liebre 2</a><br/>
 - <a href="https://github.com/YonPalac1/Mercado_Liebre_3">Mercado Liebre 3</a><br/>
